@@ -9,3 +9,6 @@ The movement of the points along the circle is smooth and intuitive
 Затем она соединяет эти точки, создав треугольник.
 Точки можно перемещать по окружности.
 При их перемещении программа перерисует треугольник динамически.
+
+## demo
+https://youtu.be/_Rv9iqGNTOw
